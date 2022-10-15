@@ -10,6 +10,10 @@
     padding-right:30px;
   }
 
+  i.subtitulo {
+    font-size: 1.5vw;
+  }
+
   img.inicial {
     width: 100%; 
     object-fit: contain;
@@ -20,6 +24,14 @@
 
   img.dentro {
     width: 70%; 
+    object-fit: contain;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  img.historia {
+    width: 100%; 
     object-fit: contain;
     display: block;
     margin-left: auto;
