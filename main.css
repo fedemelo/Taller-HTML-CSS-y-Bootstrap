@@ -1,5 +1,5 @@
   body {
-    background-color: #091f2885
+    background-color: rgb(30, 30, 30)
   }
   
   p {
@@ -51,7 +51,7 @@
   }
   
   .panel {
-    padding: 0 18px;
+    padding: 0.2vw;
     background-color: white;
     display: none;
     overflow: hidden;
@@ -65,5 +65,5 @@
   }
   
   .active:after {
-    content: "\2796";
+    content: '\2796';
   }
